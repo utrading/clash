@@ -6,9 +6,9 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Dreamacro/clash/common/cache"
-	"github.com/Dreamacro/clash/component/profile/cachefile"
-	"github.com/Dreamacro/clash/component/trie"
+	"github.com/utrading/clash/common/cache"
+	"github.com/utrading/clash/component/profile/cachefile"
+	"github.com/utrading/clash/component/trie"
 )
 
 type store interface {

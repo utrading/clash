@@ -6,8 +6,8 @@ import (
 	"errors"
 	"net"
 
-	"github.com/Dreamacro/clash/component/dialer"
-	C "github.com/Dreamacro/clash/constant"
+	"github.com/utrading/clash/component/dialer"
+	C "github.com/utrading/clash/constant"
 )
 
 type Base struct {

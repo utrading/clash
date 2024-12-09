@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Dreamacro/clash/component/resolver"
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/transport/socks5"
+	"github.com/utrading/clash/component/resolver"
+	C "github.com/utrading/clash/constant"
+	"github.com/utrading/clash/transport/socks5"
 
 	"github.com/Dreamacro/protobytes"
 )
